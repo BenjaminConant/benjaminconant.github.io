@@ -163,7 +163,6 @@ body {
 @media screen and (max-width: 600px) {
 
 .site-heading {
-  
   padding-left: 20px;
 }
 
@@ -172,7 +171,6 @@ body {
 }
 
 .site-heading .subheading {
-  font-size: 15px;
   padding-left: 10px;
 }
 
@@ -189,7 +187,6 @@ body {
 }
 
 .site-heading .subheading {
-  font-size: 15px;
   padding-left: 10px;
 }
 
@@ -218,8 +215,8 @@ body {
 }
 
 .site-heading .subheading {
-  font-size: 15px;
-  padding-left: 10px;
+  font-size: 18px;
+  padding-left: 0px;
 }
 
 }
@@ -238,7 +235,8 @@ body {
 
 .site-heading .subheading {
   font-size: 15px;
-  padding-left: 10px;
+  font-weight: 500;
+
 }
 
 }
@@ -266,7 +264,7 @@ body {
 }
 
 .site-heading .subheading {
-  font-size: 15px;
+
   padding-left: 10px;
 }
 
