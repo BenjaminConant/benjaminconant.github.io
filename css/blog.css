@@ -3,17 +3,16 @@ html {
 }
 
 body {
-  background-color: #eeeeee;
+  background-color: white;
 }
 
 .banner {
   height: 530px;
-  background: 50% 59.8%;
+  background: 39% 61%;
   background-image: url('../img/banner.jpg'); 
   background-attachment: fixed;
   min-height: 100%;
-/*  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;*/
+  margin-bottom: 40px;
 }
 
 
@@ -43,7 +42,7 @@ body {
 
 
 
-.post {
+/*.post {
   margin-top: 30px;
   margin-bottom: 30px;
   background-color: white;
@@ -53,6 +52,29 @@ body {
   padding-bottom: 40px;
   padding-top: 20px;
   border-radius: 5px;
+}*/
+
+.post-preview a {
+  color: #404040;
+}
+
+.post-preview a:hover {
+  color: #327dc1 !important;
+  text-decoration: none;
+}
+
+.post-title {
+  margin: 0 !important;
+}
+
+
+.post-subtitle {
+ font-weight: 300;
+ margin-top: 0px !important;
+}
+
+.post-preview a:hover {
+  color: blue;
 }
 
 .post-title {
